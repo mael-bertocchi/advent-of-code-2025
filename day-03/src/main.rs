@@ -62,7 +62,11 @@ fn main() {
     }
 
     println!(
-        "Sum of largest 2-digit numbers is {} and sum of largest 12-digit numbers is {}",
-        two_digit_sum, twelve_digit_sum
+        "Step n°1: Sum of largest 2-digit numbers is {}",
+        two_digit_sum
+    );
+    println!(
+        "Step n°2: Sum of largest 12-digit numbers is {}",
+        twelve_digit_sum
     );
 }

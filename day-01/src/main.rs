@@ -38,8 +38,6 @@ fn main() {
         }
     }
 
-    println!(
-        "We stopped on zero {} times and clicked on zero {} times.",
-        stopped_on_zeros, passed_zeros
-    );
+    println!("Step n°1: We stopped on zero {} times.", stopped_on_zeros);
+    println!("Step n°2: We passed over zero {} times.", passed_zeros);
 }

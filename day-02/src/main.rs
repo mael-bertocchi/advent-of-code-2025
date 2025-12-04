@@ -63,7 +63,11 @@ fn main() {
     }
 
     println!(
-        "Sum of sequences repeated twice: {} and sum of sequences repeated at least twice: {}",
-        sequence_repeated_twice, sequence_repeated_multiple_times
+        "Step n°1: Sum of sequences repeated twice: {}",
+        sequence_repeated_twice
+    );
+    println!(
+        "Step n°2: Sum of sequences repeated multiple times: {}",
+        sequence_repeated_multiple_times
     );
 }
