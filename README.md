@@ -11,5 +11,6 @@ My solutions for the [Advent of Code 2025 challenges](https://adventofcode.com/2
 |  3  | [Lobby](https://adventofcode.com/2025/day/3)               | Find the largest numbers we can make from a list of digits.                                      | [View](day-03/src/main.rs) | ⭐⭐  |
 |  4  | [Printing Department](https://adventofcode.com/2025/day/4) | Determine the number of rolls of paper the forklifts can deal with based on their positions.     | [View](day-04/src/main.rs) | ⭐⭐  |
 |  5  | [Cafeteria](https://adventofcode.com/2025/day/5)           | Calculate the number of fresh ingredients                                                        | [View](day-05/src/main.rs) | ⭐⭐  |
+|  6  | [Trash Compactor](https://adventofcode.com/2025/day/6)     | Helping Cephalopods doing their math homework.                                                   | [View](day-06/src/main.rs) | ⭐⭐  |
 
 > The stars indicate how many parts of the challenge have been completed. They are two per day.
